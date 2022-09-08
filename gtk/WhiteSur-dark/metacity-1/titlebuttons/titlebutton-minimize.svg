@@ -1,0 +1,11 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+	<title>titlebutton-minimize</title>
+	<defs>
+		<image  width="15" height="14" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA8AAAAOAQMAAADKRNSsAAAAAXNSR0IB2cksfwAAAAZQTFRF8a4bibH/DZ7SYQAAAAJ0Uk5TAP9bkSK1AAAAHElEQVR4nGNgf8Ag/4PB/g8I1f9DRxBxoAL2BwByHhHX0aLTTQAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+		.s0 { opacity: 0;fill: #000000 } 
+	</style>
+	<path id="Layer" class="s0" d="m0 0h16v16h-16z"/>
+	<use id="Layer" href="#img1" x="0" y="1"/>
+</svg>
